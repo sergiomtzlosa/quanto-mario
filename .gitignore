@@ -1,0 +1,48 @@
+# Byte-compiled / cached Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.venv-*/
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+wheelhouse/
+
+# Test, type-check, and lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# Runtime output and local records
+frame.qasm
+records.json
+*.log
+
+# Local reference checkouts (not part of the QuantoMario package)
+Quandoom/
+QuandoomEngine/
+
+# Editor and OS files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
