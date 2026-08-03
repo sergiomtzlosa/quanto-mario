@@ -4,6 +4,8 @@ A terminal-based, Quandoom-inspired quantum platformer. Run, jump, stomp
 enemies, and finish five worlds while a real 14-qubit state vector is prepared,
 evolved, and measured alongside the game loop.
 
+![Quanto Mario](preview.png)
+
 QuantoMario uses the monochrome x-ray instrument-panel look of Quandoom as its
 default visual language, with an optional classic color mode. The platformer
 physics are deliberately classical; the quantum register drives contextual
