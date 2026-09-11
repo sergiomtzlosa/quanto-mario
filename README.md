@@ -11,11 +11,6 @@ default visual language, with an optional classic color mode. The platformer
 physics are deliberately classical; the quantum register drives contextual
 game outcomes, enemy behavior, and visual decoherence.
 
-```text
-  QUANTOMARIO
-  A QUANDOOM-INSPIRED QUANTUM PLATFORMER
-```
-
 ## Features
 
 - Five complete side-scrolling worlds with checkpoints and a final boss.
