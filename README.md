@@ -177,6 +177,10 @@ ghost trails, and decoherence effects. They do **not** make Mario's gravity,
 collision response, or platformer physics quantum. QuantoMario is a game with a
 real quantum simulation embedded in it, not a quantum-physics platformer engine.
 
+For a detailed walkthrough of the register, the per-frame circuit, the
+measurement results, and every gameplay consumer, see
+[docs/quantum.md](docs/quantum.md).
+
 ## Records and persistence
 
 Records are stored as JSON at the first applicable location:
